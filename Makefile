@@ -1,7 +1,7 @@
 CC= gcc
 CFLAGS= -O2 -Wall -Wextra -Werror -ansi
 CLIBS= -lm
-EXE= projetC.exe
+EXE= projetC
 OBJ= obj/
 SRC= src/
 INCL= include/
